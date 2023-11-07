@@ -27,3 +27,7 @@ You must then include the angular-message-format.js in your HTML like so:
 And after that is complete load the module in your application by adding it as a dependent module:
 
 angular.module('app', ['ngMessageFormat']);
+
+Reference:
+
+https://docs.angularjs.org/api/ngMessageFormat
